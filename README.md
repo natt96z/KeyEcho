@@ -11,7 +11,7 @@ KeyViz provides a real-time display of every keystroke, ensuring users can see e
 
 > A **Read the Docs** page will also be available with the **2.0 release!**
 > 
-> Understand this is currently under early development and can have bugs!
+> Understand this is **still currently under early development** and can have bugs!
 
 ---
 
