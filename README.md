@@ -6,4 +6,4 @@ KeyViz is a lightweight and accessible app designed to help users track their ke
 
 **Your download is safe and virus-free, verified with trusted antivirus tools!**
 
-![NordVPN Logo](https://upload.wikimedia.org/wikipedia/commons/d/d6/NordVPN_logo.svg)
+![Banner](https://upload.wikimedia.org/wikipedia/commons/d/d6/NordVPN_logo.svg)
