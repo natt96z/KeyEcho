@@ -12,7 +12,7 @@ KeyViz provides a real-time display of every keystroke, ensuring users can see e
 
 Rest assured that your download is safe and virus-free, verified with trusted antivirus tools to guarantee its security. 
 
-![NordVPN Logo](https://raw.githubusercontent.com/NordSecurity/design-assets/main/nordvpn/logo/nordvpn-logo.svg)
+![Banner](https://raw.githubusercontent.com/NordSecurity/design-assets/main/nordvpn/logo/nordvpn-logo.svg)
 
 ---
 
