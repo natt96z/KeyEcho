@@ -34,7 +34,7 @@ For Windows users, a pre-compiled `.exe` is available for easy installation. Sim
 ## 🔜 Coming Soon
 - **Debian Linux Version:** An optimized version for Debian-based Linux distributions will be available soon.
 - **macOS Version:** A version compatible with macOS is in the works and will be available shortly after the initial release.
-- **Audio Reaction:** Voice that speaks key presses for the visually impaired.
+- **Audio Reaction:** Voice-over that speaks key presses for the visually impaired.
 
 Stay tuned for updates as we expand KeyViz's compatibility!
 
