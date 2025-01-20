@@ -41,6 +41,6 @@ We welcome contributions from the community! If you have ideas for new features,
 ---
 
 ## 📞 Contact
-If you have any questions, suggestions, or feedback, don't hesitate to reach out! You can contact us through GitHub issues or via email at `youremail@example.com`. We’re always happy to hear from users and contributors.
+If you have any questions, suggestions, or feedback, don't hesitate to reach out! You can contact us through GitHub issues. We’re always happy to hear from users and contributors.
 
 ---
