@@ -8,13 +8,6 @@ KeyViz provides a real-time display of every keystroke, ensuring users can see e
 
 ---
 
-## 🛡️ Virus-Free Assurance (Via NordVPN)
-
-![Banner](https://raw.githubusercontent.com/NordSecurity/nordvpn-linux/main/assets/icon.svg) 
-Rest assured that your download is safe and virus-free, verified with trusted antivirus tools to guarantee its security. 
-
----
-
 ## 🎉 Key Features
 - **Real-time Key Press Visualization:** Display each key press on the screen as it's typed.
 - **Caps Lock Status Indicator:** Quickly see whether Caps Lock is enabled or disabled.
@@ -39,6 +32,11 @@ Stay tuned for updates as we expand KeyViz's compatibility!
 
 ## 🛠️ Contributing
 We welcome contributions from the community! If you have ideas for new features, improvements, or bug fixes, feel free to fork the repository, make your changes, and submit a pull request. Be sure to review the contributing guidelines before starting your work to ensure your contributions are aligned with the project's goals.
+
+## 🛡️ Virus-Free Assurance (Via NordVPN)
+
+![Banner](https://raw.githubusercontent.com/NordSecurity/nordvpn-linux/main/assets/icon.svg) 
+Rest assured that your download is safe and virus-free, verified with trusted antivirus tools to guarantee its security. 
 
 ---
 
