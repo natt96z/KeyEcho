@@ -12,7 +12,7 @@ KeyViz provides a real-time display of every keystroke, ensuring users can see e
 
 Rest assured that your download is safe and virus-free, verified with trusted antivirus tools to guarantee its security. 
 
-![Banner](https://camo.githubusercontent.com/10db2f4ff5496e52d1e77369532460139df39be32f1a06421344f0a8067c05d5/68747470733a2f2f7777772e667265656c6f676f766563746f72732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6e6f726476706e2d6c6f676f2e706e67)
+![Banner](https://www.freelogovectors.net/wp-content/uploads/2020/11/nordvpn-logo.png)
 
 ---
 
