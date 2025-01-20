@@ -9,9 +9,11 @@ KeyViz is a lightweight and accessible application designed to help users track 
 
 KeyViz provides a real-time display of every keystroke, ensuring users can see exactly what is being pressed. This makes it a valuable resource for both casual users and those performing more specialized keyboard testing. Its simple and intuitive interface allows for quick setup, eliminating complexity while maintaining accessibility. 
 
+> **PLEASE** Understand this is **still currently under early development** and can have bugs!
+>
 > A **Read the Docs** page will also be available with the **2.0 release!**
-> 
-> Understand this is **still currently under early development** and can have bugs!
+
+
 
 ---
 
