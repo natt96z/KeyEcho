@@ -23,7 +23,7 @@ KeyViz provides a real-time display of every keystroke, ensuring users can see e
 - **Lightweight and Accessible Interface:** Designed for ease of use with minimal system resource consumption.
 - **Cross-Platform Support:** Available for Windows with plans for Debian Linux and macOS versions coming soon.
 - **Open-Source and Community-Friendly:** Free to use, modify, and distribute under the MIT License.
-- **Audio Reaction: Voice-over that speaks key presses for the visually impaired.
+- **Voice Typing:** Voice-over that speaks key presses for the visually impaired.
 
 ---
 
