@@ -23,6 +23,7 @@ KeyViz provides a real-time display of every keystroke, ensuring users can see e
 - **Lightweight and Accessible Interface:** Designed for ease of use with minimal system resource consumption.
 - **Cross-Platform Support:** Available for Windows with plans for Debian Linux and macOS versions coming soon.
 - **Open-Source and Community-Friendly:** Free to use, modify, and distribute under the MIT License.
+- **Audio Reaction or Voice-over that speaks key presses for the visually impaired.
 
 ---
 
@@ -34,7 +35,6 @@ For Windows users, a pre-compiled `.exe` is available for easy installation. Sim
 ## 🔜 Coming Soon
 - **Debian Linux Version:** An optimized version for Debian-based Linux distributions will be available soon.
 - **macOS Version:** A version compatible with macOS is in the works and will be available shortly after the initial release.
-- **Audio Reaction:** Voice-over that speaks key presses for the visually impaired.
 
 Stay tuned for updates as we expand KeyViz's compatibility!
 
