@@ -1,4 +1,4 @@
-![Banner](https://github.com/natt96z/KeyViz/blob/main/docs/images/KeyVizReadMeBanner.jpg)
+![Banner](https://raw.githubusercontent.com/natt96z/KeyEcho/refs/heads/main/docs/images/KeyEchoReadMeBanner.png)
 ![alt text](https://img.shields.io/badge/Project%20Status-Active-green)
 ![alt_text](https://img.shields.io/badge/Release%20Stage-Alpha-brown)
 ![alt_text](https://img.shields.io/badge/RTD%20Status-Innactive-silver)
