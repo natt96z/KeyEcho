@@ -5,9 +5,9 @@
 
 ---
 
-KeyEcho is a lightweight and accessible application designed to help users track key presses and Caps Lock status in real-time. Whether you're testing a keyboard with missing or malfunctioning keys, navigating a keyboard with limited visibility, or simply needing an easy way to monitor Caps Lock, KeyViz offers a straightforward solution. This tool is especially useful for individuals with visual impairments, those with hardware issues, or anyone needing to verify keyboard functionality.
+Keyphonic is a lightweight and accessible application designed to help users track key presses and Caps Lock status in real-time. Whether you're testing a keyboard with missing or malfunctioning keys, navigating a keyboard with limited visibility, or simply needing an easy way to monitor Caps Lock, KeyViz offers a straightforward solution. This tool is especially useful for individuals with visual impairments, those with hardware issues, or anyone needing to verify keyboard functionality.
 
-KeyEcho provides a real-time display of every keystroke, ensuring users can see exactly what is being pressed. This makes it a valuable resource for both casual users and those performing more specialized keyboard testing. Its simple and intuitive interface allows for quick setup, eliminating complexity while maintaining accessibility. 
+Keyphonic provides a real-time display of every keystroke, ensuring users can see exactly what is being pressed. This makes it a valuable resource for both casual users and those performing more specialized keyboard testing. Its simple and intuitive interface allows for quick setup, eliminating complexity while maintaining accessibility. 
 
 > **PLEASE** understand this is **still currently under early development** and can have bugs!
 >
